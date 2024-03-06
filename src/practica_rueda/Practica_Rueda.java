@@ -7,7 +7,7 @@ public class Practica_Rueda {
     
     public static void main(String[] args) {
     
-        
+       
         RuedaGarciaPerezJose2324 rueda = new RuedaGarciaPerezJose2324(40,2,50);
         
         viaje1_GarciaPerezJose(rueda);

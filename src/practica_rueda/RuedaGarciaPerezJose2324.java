@@ -32,6 +32,7 @@ public class RuedaGarciaPerezJose2324 {
         this.centimos_litro = centimos_litro;
     }
 
+    
     /**
      * @return the capacidad
      */
